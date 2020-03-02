@@ -1,0 +1,7 @@
+ongratulations! Thank you for using IRCTC's online rail reservation facility. Your booking details are indicated below.
+PNR No. :	8330717466	Train No. / Name :	11301 / UDYAN EXPRESS	Quota :	TATKAL
+Transaction ID :	100002304968179	Date & Time of Booking :	26-Feb-2020 08:54:47 HRS	Class :	SLEEPER CLASS
+From :	PUNE JN (PUNE)	Date of Journey :	27-Feb-2020	To :	KALABURAGI (KLBG)
+Boarding At :	PUNE	Date Of Boarding :	27-Feb-2020	Scheduled Departure* :	27-Feb-2020 11:45
+Reservation Up to :	KALABURAGI ( KLBG)	Scheduled Arrival :	27-Feb-2020 18:39	Adult:  1	Child:  0
+Passenger Mobile No :	9766096588	Distance :	377KM	Insurance (No. of Psng) :	
